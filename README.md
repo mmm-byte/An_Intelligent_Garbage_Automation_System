@@ -14,4 +14,4 @@ The project objectives are as follows:
 ## components that can are part of a system
 
 ### Smart Bins
-
+Refer here Git Clone : https://github.com/mmm-byte/An_Intelligent_Garbage_Automation_System/tree/5715caea29f4651a4ee138536a3f78732c9cc15a/Smart_Bin
