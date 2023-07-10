@@ -38,5 +38,7 @@ The Arduino Integrated Development Environment - or Arduino Software (IDE) - con
 - The smart dustbin uses an Ultrasonic sensor HC-SR04 to detect objects in front. 
 - It then sends the signals to Arduino Uno. The Arduino understands the signal and sends a signal to the Servomotor which opens the flap on top of the dustbin.
 - Here we have program it to open the race for only 3 seconds after 3 seconds the flap automatically closes. You can change that time just by making minor changes to the code in Arduino IDE.
+- The Ultrasonic sensor HC-SR04 pins echo and trig are connected to Arduino Uno pins 5 and 6 respectively. The VCC pin is connected to 5V on Arduino Uno and both the grounds are connected together. 
+- A 9v battery has been connected to Vin pin on the Arduino Uno and grounds are connected together. 
 
 
