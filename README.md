@@ -10,3 +10,8 @@ The project objectives are as follows:
 * Implement an automated garbage collection mechanism.
 * Analyze data collected from the system to optimize waste management strategies.
 * Enhance overall efficiency and sustainability in garbage management.
+
+## components that can are part of a system
+
+### Smart Bins
+
