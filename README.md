@@ -15,3 +15,12 @@ The project objectives are as follows:
 
 ### Smart Bins
 Refer here Git Clone : https://github.com/mmm-byte/An_Intelligent_Garbage_Automation_System/tree/5715caea29f4651a4ee138536a3f78732c9cc15a/Smart_Bin
+
+
+### Autonomous Garbage Collection System
+Refer here Git Clone : https://github.com/mmm-byte/PythonProjects/tree/main/Self_Driving_Using_Line_Detection
+
+### Image recognition software for waste Classification
+
+
+### Central sever and Analyticcs Software
